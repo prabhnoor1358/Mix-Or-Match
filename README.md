@@ -1,2 +1,42 @@
-# Mix-Or-Match
-Welcome to Mix-or-Match, the ultimate card-matching game! Get ready to challenge your memory and concentration skills in this fun and addictive game. 
+# <p align="center">Mix-Or-Match</p>
+
+Welcome to Mix-or-Match, the classic card-matching game that challenges your memory and concentration skills! 
+
+## How to Play
+
+1. **Objective**: Match all pairs of cards on the board.
+
+2. **Game Setup**: Click "Start" to begin. You'll see a grid of facedown cards.
+
+3. **Gameplay**: Click any two cards to reveal them. If they match, they stay face-up. If not, they flip back over.
+
+4. **Memory and Strategy**: Remember card positions to make matching easier.
+
+5. **Winning**: Match all cards to complete the game.
+
+6. **Time Challenge**: Beat your own record or compete with friends.
+
+7. **Hints and Help**: Use hints or shuffle cards if stuck.
+
+8. **Enjoy**: Have fun and challenge your brain!
+
+## Getting Started
+
+- Clone this repository to your local machine.
+- Open `index.html` in your web browser.
+- Click "Start" to begin playing.
+
+## Game Controls
+
+- Click on cards to reveal them.
+- Use the options menu to adjust settings.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Credits
+
+- Developed by **Prabhnoor Singh**, **Prajyant Veer Siag** and **Palak Sharma**
