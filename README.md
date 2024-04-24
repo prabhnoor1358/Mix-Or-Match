@@ -20,11 +20,17 @@ Welcome to Mix-or-Match, the classic card-matching game that challenges your mem
 
 8. **Enjoy**: Have fun and challenge your brain!
 
+## Screenshot of the game
+
+<p align="center">
+  <img src="https://github.com/prabhnoor1358/Mix-Or-Match/blob/main/FEE_project/Assets/Screenshots/pic.png" alt="Screenshot of game"/>
+</p>
+
 ## Getting Started
 
 - Clone this repository to your local machine.
-- Open `index.html` in your web browser.
-- Click "Start" to begin playing.
+- Open `login.py` in your web browser.
+- Enter your credentials and click "Start" to begin playing.
 
 ## Game Controls
 
@@ -33,8 +39,8 @@ Welcome to Mix-or-Match, the classic card-matching game that challenges your mem
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Credits
