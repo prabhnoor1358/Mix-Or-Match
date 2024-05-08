@@ -16,9 +16,7 @@ Welcome to Mix-or-Match, the classic card-matching game that challenges your mem
 
 6. **Time Challenge**: Beat your own record or compete with friends.
 
-7. **Hints and Help**: Use hints or shuffle cards if stuck.
-
-8. **Enjoy**: Have fun and challenge your brain!
+7. **Enjoy**: Have fun and challenge your brain!
 
 ## Screenshot of the game
 
@@ -35,7 +33,8 @@ Welcome to Mix-or-Match, the classic card-matching game that challenges your mem
 ## Game Controls
 
 - Click on cards to reveal them.
-- Use the options menu to adjust settings.
+- Try to match all the cards within the given time frame.
+- Play with your friends and try to beat your high score.
 
 ## Technologies Used
 
