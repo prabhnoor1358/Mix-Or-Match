@@ -12,7 +12,7 @@ def login():
     password = "123"
     if username_entry.get()==username and password_entry.get()==password:
         messagebox.showinfo(title="Login Successful!", message="You successfully logged in.")
-        webbrowser.open_new_tab("file:///C:\Users\DELL\Desktop\Mix-Or-Match\FEE_project\index.html")
+        webbrowser.open_new_tab("file:///C:/Users/DELL/Desktop/Mix-Or-Match/FEE_project/index.html")
     else:
         messagebox.showerror(title="Error", message="Invalid login.")
 
