@@ -44,4 +44,6 @@ Welcome to Mix-or-Match, the classic card-matching game that challenges your mem
 
 ## Credits
 
-- Developed by **Prabhnoor Singh**, **Prajyant Veer Siag** and **Palak Sharma**
+- Developed by **Prabhnoor Singh** and **Prajyant Veer Siag** developed as part of Front End Engineering 1 coursework at Chitkara University (Semester 1).
+
+
