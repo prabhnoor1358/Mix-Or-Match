@@ -21,7 +21,7 @@ Welcome to Mix-or-Match, the classic card-matching game that challenges your mem
 ## Screenshot of the game
 
 <p align="center">
-  <img src="https://github.com/prabhnoor25/Mix-Or-Match/blob/main/FEE_project/Assets/Screenshots/pic.png" alt="Screenshot of game"/>
+  <img src="https://github.com/prabhnoor25/Mix-Or-Match/blob/main/Assets/Screenshots/pic.png" alt="Screenshot of game"/>
 </p>
 
 ## Getting Started
